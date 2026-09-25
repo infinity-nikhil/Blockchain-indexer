@@ -1,0 +1,3 @@
+### A blockchain indexer is a specialized infrastructure service that extracts raw transaction data and smart contract events from a blockchain, transforms them into a structured format, and loads them into a query-optimized database
+
+Google words ofc we are going to do it my dwagss....
